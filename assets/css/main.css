@@ -2291,15 +2291,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #e6152d;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #424242;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #848484;
 		}
 
 		.icon.style4 {
@@ -2892,11 +2892,11 @@ input, select, textarea {
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #ca2525;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #717171;
 			}
 
 			.statistics li.style5 {
@@ -3546,10 +3546,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #434343, #a0a0a0, #c61d1d);
+			background-image: -webkit-linear-gradient(90deg, #434343, #a0a0a0, #c61d1d);
+			background-image: -ms-linear-gradient(90deg, #434343, #a0a0a0, #c61d1d);
+			background-image: linear-gradient(90deg, #434343, #a0a0a0, #c61d1d);
 		}
 
 		#main table tbody tr {
