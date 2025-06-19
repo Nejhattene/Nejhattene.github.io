@@ -122,24 +122,3 @@
 		});
 
 })(jQuery);
-
-
-const imageSources = [
-  'images/studenterhue.png',
-  'images/jesterhat.png',
-  'images/piratehat.png'
-];
-
-function getRandomImage() {
-  const index = Math.floor(Math.random() * imageSources.length);
-  return imageSources[index];
-}
-
-function randomizeLogo(img) {
-	img.src = getRandomImage();
-}
-
-function resetLogo(img) {
-	img.src = 'images/nejhat.png';
-}
-
